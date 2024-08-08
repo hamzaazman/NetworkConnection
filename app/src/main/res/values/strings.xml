@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkConnection</string>
+    <string name="you_are_online_msg">Online</string>
+    <string name="you_are_offline_msg">Offline</string>
+</resources>
